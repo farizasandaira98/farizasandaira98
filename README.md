@@ -1,9 +1,15 @@
 
 <h1 align="center">
   <br>
+<<<<<<< HEAD
+  <a href="#"><img src="/foto/profile.jpg" alt="Markdownify" width="200"></a>
+  <br>
+  Hello, Welcome To My Github Page
+=======
   <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Markdownify" width="200"></a>
   <br>
   Markdownify
+>>>>>>> 24712c4c451f7e074b184eaf58f5cb6317faaf50
   <br>
 </h1>
 
