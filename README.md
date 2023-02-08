@@ -1,9 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="#"><img src="/foto/profile.jpg" alt="Markdownify" width="200"></a>
-  <br>
-  Hello, I am Fariza, Software Engginer
+  Hello, I am <strong>Muh Fariza<strong>, Software Engginer
   <br>
 </h1>
 
