@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="foto/profile.jpg" alt="Muh Fariza" width="140" />
+  <!-- <img src="foto/profile.jpg" alt="Muh Fariza" width="140" /> -->
   <h1>Muh Fariza</h1>
   <p><strong>Fullstack Engineer</strong> · Backend at LintasPay</p>
   <p>
